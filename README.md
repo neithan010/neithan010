@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hola, soy Nicolás 👋
+Ingeniero Civil en Computación (U. de Chile) | Python & Data Engineering
 
-<!--
-**neithan010/neithan010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me especializo en el desarrollo de soluciones Backend y procesamiento de datos científicos.
 
-Here are some ideas to get you started:
+🚀 **Proyectos Destacados:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **[fastapi-house-pricing](https://github.com/neithan010/fastapi-house-pricing)** (Nuevo!)
+    > API REST de alto rendimiento para estimación de precios inmobiliarios. Construida con **FastAPI**, validación **Pydantic** y manejo de errores profesional.
+
+* **Análisis Climático (CR)2**
+    > (Aquí puedes poner otro link si tienes código de tu trabajo anterior o tesis).
+
+🛠 **Tech Stack:**
+Python | FastAPI | Pandas | SQL | Docker | AWS
