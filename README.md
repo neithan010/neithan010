@@ -7,7 +7,7 @@ Me especializo en el desarrollo de soluciones Backend y procesamiento de datos c
 
 * **🏠 API Predicción Inmobiliaria (FastAPI + Docker)**
     * Backend profesional con CI/CD automatizado.
-    * 🔴 **Live Demo:** [Ver en Render]([https://TU-URL-EN-RENDER.onrender.com/docs](https://api-casas-nico.onrender.com/docs#/))
+    * 🔴 **Live Demo:** [Ver en Render](https://TU-URL-EN-RENDER.onrender.com/docs](https://api-casas-nico.onrender.com/docs#/))
     * 💻 **Código:** [Ver Repositorio](https://github.com/TU-USUARIO/fastapi-house-pricing)
 
 * **Análisis Climático (CR)2**
