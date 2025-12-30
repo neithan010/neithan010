@@ -5,11 +5,16 @@ Me especializo en el desarrollo de soluciones Backend y procesamiento de datos c
 
 🚀 **Proyectos Destacados:**
 
-* **[fastapi-house-pricing](https://github.com/neithan010/fastapi-house-pricing)** (Nuevo!)
-    > API REST de alto rendimiento para estimación de precios inmobiliarios. Construida con **FastAPI**, validación **Pydantic** y manejo de errores profesional.
+* **🏠 API Predicción Inmobiliaria (FastAPI + Docker)**
+    * Backend profesional con CI/CD automatizado.
+    * 🔴 **Live Demo:** [Ver en Render](https://TU-URL-EN-RENDER.onrender.com/docs)
+    * 💻 **Código:** [Ver Repositorio](https://github.com/TU-USUARIO/fastapi-house-pricing)
 
 * **Análisis Climático (CR)2**
-    > (Aquí puedes poner otro link si tienes código de tu trabajo anterior o tesis).
+    > To Complete
+
+* **Memoria**
+    > To Complete
 
 🛠 **Tech Stack:**
 Python | FastAPI | Pandas | SQL | Docker | AWS
