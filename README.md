@@ -7,14 +7,21 @@ Me especializo en el desarrollo de soluciones Backend y procesamiento de datos c
 
 * **🏠 API Predicción Inmobiliaria (FastAPI + Docker)**
     * Backend profesional con CI/CD automatizado.
-    * 🔴 **Live Demo:** [Ver en Render](https://api-casas-nico.onrender.com/docs#/)
-    * 💻 **Código:** [Ver Repositorio](https://github.com/TU-USUARIO/fastapi-house-pricing)
+    * 🔴 **Live Demo:** <a href="https://api-casas-nico.onrender.com/docs#/" target="_blank">Ver en Render</a>
+    * 💻 **Código:** <a href="https://github.com/TU-USUARIO/fastapi-house-pricing" target="_blank">Ver Repositorio</a>
 
 * **Análisis Climático (CR)2**
-    > To Complete
+    > *Procesamiento de datos meteorológicos... (En construcción)*
 
-* **Memoria**
-    > To Complete
+* **Memoria de Título**
+    > *Investigación sobre... (En construcción)*
+
+---
 
 🛠 **Tech Stack:**
-Python | FastAPI | Pandas | SQL | Docker | AWS
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
