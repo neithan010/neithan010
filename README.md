@@ -11,7 +11,9 @@ Me especializo en el desarrollo de soluciones Backend y procesamiento de datos c
     * 💻 **Código:** <a href="https://github.com/TU-USUARIO/fastapi-house-pricing" target="_blank">Ver Repositorio</a>
 
 * **Análisis Climático (CR)2**
-    > *Procesamiento de datos meteorológicos... (En construcción)*
+    * Implementación web para analisis de datos climaticos relacionados a la precipitación con data extraida de satelistes de la NASA (ver guía de usuario de la pagina).
+    * 🔴 **Página:** <a href="https://gexplorer.cr2.cl" target="_blank"> G-Explorer </a>
+    * 💻 **Código:** No disponible (No es de mi autoría).
 
 * **Memoria de Título**
     > *Investigación sobre... (En construcción)*
