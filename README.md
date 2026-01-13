@@ -5,7 +5,7 @@ Me especializo en el desarrollo de soluciones Backend y procesamiento de datos c
 
 🚀 **Proyectos Destacados:**
 
-* ** Tarea Reclutamiento (Scraping + openAi)**
+* **Tarea Reclutamiento (Scraping + openAi)**
     > *En construcción*
 
 * **🏠 API Predicción Inmobiliaria (FastAPI + Docker)**
