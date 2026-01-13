@@ -5,6 +5,9 @@ Me especializo en el desarrollo de soluciones Backend y procesamiento de datos c
 
 🚀 **Proyectos Destacados:**
 
+* ** Tarea Reclutamiento (Scraping + openAi)**
+    > *En construcción*
+
 * **🏠 API Predicción Inmobiliaria (FastAPI + Docker)**
     * Backend profesional con CI/CD automatizado.
     * 🔴 **Live Demo:** <a href="https://api-casas-nico.onrender.com/docs#/" target="_blank">Ver en Render</a>
